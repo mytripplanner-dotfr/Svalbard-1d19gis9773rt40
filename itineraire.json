@@ -1,0 +1,310 @@
+{
+  "pays": "Norvège (Svalbard)",
+  "drapeau": "🇳🇴",
+  "symbole": "🐻‍❄️",
+  "titre": "L'Aventure Arctique au Svalbard : Aurores Boréales et Faune Polaire",
+  "budget_total": "5300 € (Vol + estimations)",
+  "duree": "11 jours",
+  "date_debut": "2026-01-19",
+  "date_fin": "2026-01-29",
+  "temps_vol": "17h55 - 4 escales",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée sous la Nuit Polaire à Longyearbyen",
+      "legende": "Après un long voyage, vous atterrissez à Longyearbyen, la capitale administrative du Svalbard. La nuit polaire enveloppe la ville, offrant une atmosphère unique. Installation à l'hôtel et première immersion dans ce monde arctique.",
+      "lieu": "Longyearbyen",
+      "activites": [
+        "🛬 <strong>Arrivée à l'aéroport :</strong> Transfert vers votre hébergement.",
+        "🛏️ <strong>Installation :</strong> Check-in à l'hôtel et repos.",
+        "🚶‍♂️ <strong>Première balade :</strong> Courte promenade pour sentir l'ambiance de la ville."
+      ],
+      "illustration": "svalbard_jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "La Nuit Polaire",
+          "texte": "En janvier, le soleil ne se lève pas au Svalbard. C'est la nuit polaire, une période de crépuscule constant ou d'obscurité totale, idéale pour observer les aurores boréales."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🌌",
+      "titre": "Découverte de Longyearbyen et Chasse aux Aurores",
+      "legende": "Explorez Longyearbyen, la ville la plus septentrionale du monde. Visitez le musée pour comprendre l'histoire et la faune locale, puis préparez-vous pour une soirée magique à la recherche des aurores boréales.",
+      "lieu": "Longyearbyen",
+      "activites": [
+        "🏛️ <strong>Musée du Svalbard :</strong> Plongez dans l'histoire minière et la biodiversité arctique.",
+        "🛍️ <strong>Exploration urbaine :</strong> Flânez dans les rues, découvrez les boutiques locales et l'église.",
+        "✨ <strong>Chasse aux Aurores Boréales :</strong> Excursion en bus ou motoneige pour admirer ce spectacle céleste."
+      ],
+      "illustration": "svalbard_jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "⚠️",
+          "titre": "Sécurité Ours Polaire",
+          "texte": "Il est interdit de quitter Longyearbyen sans arme à feu et équipement de sécurité. Les ours polaires sont présents et dangereux. Toutes les excursions guidées sont sécurisées."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🐕",
+      "titre": "Aventure en Traîneau à Chiens",
+      "legende": "Vivez une expérience arctique authentique en conduisant votre propre attelage de huskies. Glissez silencieusement à travers les paysages enneigés, une immersion totale dans la nature sauvage du Svalbard.",
+      "lieu": "Longyearbyen et environs",
+      "activites": [
+        "🐕 <strong>Traîneau à chiens :</strong> Apprenez à diriger un attelage et parcourez les vallées enneigées.",
+        "☕ <strong>Pause réconfortante :</strong> Dégustez une boisson chaude et des biscuits dans une cabane traditionnelle."
+      ],
+      "illustration": "svalbard_jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🐾",
+          "titre": "Les Huskies du Svalbard",
+          "texte": "Ces chiens sont spécialement élevés pour leur endurance et leur force dans les conditions arctiques. Ils adorent courir et sont des compagnons fidèles pour l'exploration."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🧊",
+      "titre": "Exploration d'une Grotte de Glace",
+      "legende": "Partez à l'aventure sous la surface gelée d'un glacier. Équipé d'un casque et d'une lampe frontale, explorez les formations de glace bleutée et les tunnels sculptés par la nature.",
+      "lieu": "Glacier de Lars ou Longyear",
+      "activites": [
+        "❄️ <strong>Randonnée glaciaire :</strong> Accès à la grotte de glace en motoneige ou véhicule chenillé.",
+        "🔦 <strong>Exploration de la grotte :</strong> Admirez les sculptures naturelles de glace et les couleurs éphémères."
+      ],
+      "illustration": "svalbard_jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Un Monde Éphémère",
+          "texte": "Les grottes de glace se forment et évoluent chaque année. Chaque visite offre une expérience unique, révélant la beauté fragile et changeante des glaciers."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🏍️",
+      "titre": "Expédition en Motoneige dans l'Adventdalen",
+      "legende": "Montez sur une motoneige pour une excursion palpitante à travers l'immense vallée d'Adventdalen. C'est l'occasion d'admirer les paysages grandioses et peut-être d'apercevoir des rennes du Svalbard ou des renards arctiques.",
+      "lieu": "Adventdalen",
+      "activites": [
+        "💨 <strong>Safari motoneige :</strong> Parcourez les étendues enneigées de l'Adventdalen.",
+        "🦌 <strong>Observation de la faune :</strong> Gardez l'œil ouvert pour les rennes et les renards arctiques."
+      ],
+      "illustration": "svalbard_jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "🌬️",
+          "titre": "Équipement Essentiel",
+          "texte": "Pour les activités extérieures, des vêtements chauds et techniques sont indispensables. Les opérateurs fournissent souvent des combinaisons thermiques, bottes et gants."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🖼️",
+      "titre": "Culture et Histoire Polaire",
+      "legende": "Poursuivez votre exploration culturelle en visitant la Galerie Svalbard, qui expose des œuvres d'art inspirées de l'Arctique, et le Musée des Expéditions au Pôle Nord, retraçant les aventures des explorateurs polaires.",
+      "lieu": "Longyearbyen",
+      "activites": [
+        "🎨 <strong>Galerie Svalbard :</strong> Découvrez l'art local et les expositions sur la nature arctique.",
+        "🧭 <strong>Musée des Expéditions au Pôle Nord :</strong> Revivez les épopées des pionniers de l'Arctique."
+      ],
+      "illustration": "svalbard_jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "📚",
+          "titre": "Le Saviez-vous ?",
+          "texte": "Le Svalbard abrite la Banque Mondiale de Graines, une arche de Noé végétale souterraine, protégeant la biodiversité agricole mondiale en cas de catastrophe."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🚲",
+      "titre": "Fatbike sur la Neige ou Randonnée Raquettes",
+      "legende": "Profitez d'une activité plus douce mais tout aussi immersive. Optez pour une balade en fatbike, ces vélos aux pneus larges conçus pour la neige, ou une randonnée en raquettes pour explorer les environs de Longyearbyen à votre rythme.",
+      "lieu": "Longyearbyen et environs",
+      "activites": [
+        "🚲 <strong>Fatbike sur neige :</strong> Une manière ludique de découvrir les paysages enneigés.",
+        "🥾 <strong>Randonnée en raquettes :</strong> Marchez silencieusement et observez la nature hivernale."
+      ],
+      "illustration": "svalbard_jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "🤫",
+          "titre": "Tranquillité Arctique",
+          "texte": "Le silence est d'or au Svalbard. Profitez de la quiétude des paysages, seulement interrompue par le vent ou le craquement de la neige sous vos pas."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "📸",
+      "titre": "Atelier Photo Arctique et Aurores",
+      "legende": "Perfectionnez vos compétences photographiques dans ce cadre unique. Un guide expert vous enseignera les techniques pour capturer la beauté des paysages polaires et, si la chance est au rendez-vous, les aurores boréales.",
+      "lieu": "Longyearbyen et environs",
+      "activites": [
+        "📷 <strong>Atelier photo :</strong> Apprenez à photographier la nuit polaire et les aurores.",
+        "✨ <strong>Soirée Aurores Boréales :</strong> Nouvelle opportunité d'admirer et de photographier les lumières du Nord."
+      ],
+      "illustration": "svalbard_jour8.jpg",
+      "encarts": [
+        {
+          "symbole": "🔋",
+          "titre": "Batteries et Froid",
+          "texte": "Les batteries des appareils électroniques se déchargent très vite par temps froid. Prévoyez des batteries de rechange et gardez-les au chaud près de votre corps."
+        }
+      ]
+    },
+    {
+      "jour": 9,
+      "symbole": "👻",
+      "titre": "Excursion à Pyramiden, la Ville Fantôme Russe",
+      "legende": "Embarquez pour une longue excursion en motoneige ou en véhicule chenillé vers Pyramiden, une ancienne ville minière soviétique abandonnée. Un voyage fascinant dans le temps, figé dans le froid arctique.",
+      "lieu": "Pyramiden",
+      "activites": [
+        "🇷🇺 <strong>Voyage à Pyramiden :</strong> Explorez cette ville fantôme avec un guide local.",
+        "🐻 <strong>Observation de la faune :</strong> Sur le chemin, cherchez des phoques ou des oiseaux marins (si la lumière le permet)."
+      ],
+      "illustration": "svalbard_jour9.jpg",
+      "encarts": [
+        {
+          "symbole": "🕰️",
+          "titre": "Un Passé Soviétique",
+          "texte": "Pyramiden fut une florissante communauté minière soviétique jusqu'à sa fermeture en 1998. Elle est restée presque intacte, offrant un aperçu unique de l'ère soviétique dans l'Arctique."
+        }
+      ]
+    },
+    {
+      "jour": 10,
+      "symbole": "🛍️",
+      "titre": "Derniers Moments et Souvenirs Arctiques",
+      "legende": "Profitez de cette dernière journée pour flâner, acheter des souvenirs uniques, ou revisiter un lieu coup de cœur. Dégustez un dernier repas typique avant de vous préparer au départ.",
+      "lieu": "Longyearbyen",
+      "activites": [
+        "🎁 <strong>Shopping de souvenirs :</strong> Trouvez des articles artisanaux ou des produits locaux.",
+        "🍺 <strong>Visite de la brasserie :</strong> Découvrez la brasserie la plus septentrionale du monde (Svalbard Bryggeri).",
+        "🍽️ <strong>Dîner d'adieu :</strong> Savourez un dernier repas dans un restaurant local."
+      ],
+      "illustration": "svalbard_jour10.jpg",
+      "encarts": [
+        {
+          "symbole": "💰",
+          "titre": "Zone Franche",
+          "texte": "Le Svalbard est une zone hors taxes. Vous pouvez y acheter de l'alcool et d'autres produits à des prix plus avantageux qu'en Norvège continentale, mais avec des restrictions sur les quantités."
+        }
+      ]
+    },
+    {
+      "jour": 11,
+      "symbole": "🛫",
+      "titre": "Départ du Svalbard",
+      "legende": "Après un séjour inoubliable au cœur de l'Arctique, il est temps de quitter le Svalbard. Transfert à l'aéroport pour votre vol retour, la tête remplie de souvenirs polaires.",
+      "lieu": "Longyearbyen",
+      "activites": [
+        "🍳 <strong>Petit-déjeuner :</strong> Profitez d'un dernier repas à l'hôtel.",
+        "🛄 <strong>Check-out :</strong> Préparation pour le départ.",
+        "🛫 <strong>Transfert et vol retour :</strong> Direction l'aéroport pour votre vol."
+      ],
+      "illustration": "svalbard_jour11.jpg",
+      "encarts": [
+        {
+          "symbole": "👋",
+          "titre": "Au Revoir l'Arctique",
+          "texte": "Le Svalbard laisse une empreinte durable. Ses paysages extrêmes et sa faune unique en font une destination de voyage mémorable et transformatrice."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "947 € (Aller-retour incluant bagage)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "450 €/pers (Estimations navettes aéroport, bus locaux, transports pour activités)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "990 €/pers (Basé sur 90€/jour pour 11 jours)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "1700 €/pers (Base chambre double 3* pour 10 nuits)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "1200 €/pers (Excursions motoneige, traîneau, grottes, musées...)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales sont...",
+      "symbole": "📅"
+    },
+    {
+      "titre": "Novembre à Février :",
+      "symbole": "🌌",
+      "texte": "Période de nuit polaire, excellente pour l'observation des aurores boréales et les activités hivernales comme la motoneige et le traîneau à chiens."
+    },
+    {
+      "titre": "Mars à Mai :",
+      "symbole": "☀️",
+      "texte": "Le soleil revient, offrant plus de lumière pour les activités de plein air et la découverte des paysages enneigés sous un jour nouveau."
+    },
+    {
+      "titre": "Juin à Août :",
+      "symbole": "🐧",
+      "texte": "Période du soleil de minuit, idéale pour les croisières d'observation de la faune (ours polaires, oiseaux marins, phoques) et la randonnée."
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "Climat et Météo en Janvier",
+      "symbole": "❄️",
+      "texte": "En janvier, le Svalbard est en pleine nuit polaire avec des températures moyennes entre -15°C et -25°C, parfois plus froides. Le vent peut accentuer la sensation de froid. Des vêtements multicouches et très chauds sont indispensables."
+    },
+    {
+      "titre": "Monnaie et Paiement",
+      "symbole": "💳",
+      "texte": "La monnaie est la Couronne Norvégienne (NOK). Les cartes de crédit sont largement acceptées partout, même pour de petits montants. Il est rare d'utiliser de l'argent liquide."
+    },
+    {
+      "titre": "Population et Culture",
+      "symbole": "🧑‍🤝‍🧑",
+      "texte": "Le Svalbard est une communauté internationale avec environ 2 900 habitants de plus de 50 nationalités. La culture est fortement influencée par la vie arctique, la recherche scientifique et le tourisme d'aventure. Il est interdit d'avoir des chats au Svalbard pour protéger la faune locale."
+    },
+    {
+      "titre": "Conseils Insolites",
+      "symbole": "✨",
+      "texte": "N'oubliez pas de retirer vos chaussures avant d'entrer dans la plupart des bâtiments (hôtels, musées, restaurants) pour ne pas salir avec la neige et la boue. C'est une tradition locale respectueuse."
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Office du Tourisme du Svalbard",
+      "titre": "Visit Svalbard",
+      "url": "https://www.visitsvalbard.com",
+      "symbole": "🔗"
+    },
+    {
+      "legende": "Informations sur les aurores boréales",
+      "titre": "Aurora Forecast",
+      "url": "https://www.aurora-service.eu/aurora-forecast/",
+      "symbole": "🔗"
+    }
+  ]
+}
